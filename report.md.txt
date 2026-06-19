@@ -1,0 +1,25 @@
+# Netflix Data Analysis Report
+
+## Introduction
+This project analyzes Netflix dataset using Python.
+
+## Objective
+To find insights like Movies vs TV Shows, Top Countries, Top Genres, and Content trends.
+
+## Analysis
+- Movies vs TV Shows distribution
+- Top 10 countries
+- Top 10 genres
+- Content added over years
+
+## Insights
+- Movies are more than TV Shows
+- USA has highest content
+- Drama is most common genre
+- Content increased after 2015
+
+## Conclusion
+This project helps understand Netflix data trends.
+
+## Author
+Akhila Singam
